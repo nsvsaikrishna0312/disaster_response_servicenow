@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>2</order>
+        <semantic_tag/>
+        <size>6</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">6a4b51de837222101c34cfc0deaad331</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-19 20:07:50</sys_created_on>
+        <sys_id>664b1d1283b222101c34cfc0deaad32e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Community Disaster Response" source="x_1647038_communit">2fbac91a833222101c34cfc0deaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Disaster Response">2fbac91a833222101c34cfc0deaad34f</sys_scope>
+        <sys_update_name>sp_column_664b1d1283b222101c34cfc0deaad32e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-19 20:07:50</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Disaster Response">2fbac91a833222101c34cfc0deaad34f</application>
+        <file_path/>
+        <instance_id>02058bd9db0e35d8b1eb9027c596190c</instance_id>
+        <instance_name>dev193174</instance_name>
+        <name>sp_column_664b1d1283b222101c34cfc0deaad32e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>2</order><semantic_tag/><size>6</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">6a4b51de837222101c34cfc0deaad331</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-19 20:07:50</sys_created_on><sys_id>664b1d1283b222101c34cfc0deaad32e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2</sys_name><sys_package display_value="Community Disaster Response" source="x_1647038_communit">2fbac91a833222101c34cfc0deaad34f</sys_package><sys_policy/><sys_scope display_value="Community Disaster Response">2fbac91a833222101c34cfc0deaad34f</sys_scope><sys_update_name>sp_column_664b1d1283b222101c34cfc0deaad32e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-19 20:07:50</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-569981604</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>e7bac91a833222101c34cfc0deaad354</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-19 20:07:50</sys_created_on>
+        <sys_id>664b1d1283b222101c34cfc0deaad330</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198244cd07a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-19 20:07:50</sys_updated_on>
+        <type>Column</type>
+        <update_guid>6a4b1d12dab22210900f5fff0a5e552f</update_guid>
+        <update_guid_history>6a4b1d12dab22210900f5fff0a5e552f:-569981604</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2">324c5d5283b222101c34cfc0deaad375</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-19 20:12:13</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>adf29b3148f047b299bf3d3f71a9c8a1</sys_id>
+        <sys_metadata>664b1d1283b222101c34cfc0deaad32e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Community Disaster Response" source="x_1647038_communit">2fbac91a833222101c34cfc0deaad34f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Disaster Response">2fbac91a833222101c34cfc0deaad34f</sys_scope>
+        <sys_scope_delete display_value="">196561ee0737428a9d22bc6a8c2904a4</sys_scope_delete>
+        <sys_update_name>sp_column_664b1d1283b222101c34cfc0deaad32e</sys_update_name>
+        <sys_update_version display_value="sp_column_664b1d1283b222101c34cfc0deaad32e">664b1d1283b222101c34cfc0deaad330</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-19 20:12:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

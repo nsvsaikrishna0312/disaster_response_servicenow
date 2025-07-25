@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>danger</color>
+        <css/>
+        <glyph>exclamation-triangle</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Let us know about a blocked road, fire, or other issue</short_description>
+        <size>md</size>
+        <sp_column display_value="1">e16c9d5283b222101c34cfc0deaad319</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-19 20:07:56</sys_created_on>
+        <sys_id>4c5b951283b222101c34cfc0deaad373</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Report a New Incident</sys_name>
+        <sys_package display_value="Community Disaster Response" source="x_1647038_communit">2fbac91a833222101c34cfc0deaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Disaster Response">2fbac91a833222101c34cfc0deaad34f</sys_scope>
+        <sys_update_name>sp_instance_link_4c5b951283b222101c34cfc0deaad373</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-19 20:12:51</sys_updated_on>
+        <title>Report a New Incident</title>
+        <type>url</type>
+        <url>https://dev193174.service-now.com/$studio.do?sysparm_transaction_scope=2fbac91a833222101c34cfc0deaad34f&amp;sysparm_nostack=true&amp;sysparm_use_polaris=true</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=4c5b951283b222101c34cfc0deaad373"/>
+</record_update>
